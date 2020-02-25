@@ -33,6 +33,8 @@ public class FirstActivity extends AppCompatActivity {
 
                 i.putExtra("default_data", "ABCZ:Y");
 
+                //code code code......
+
 
                 Student s = new Student("Dat", 10);
 
