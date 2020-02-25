@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidTutorial</string>
+    <string name="today">Today</string>
+    <string name="subscription">Subscriptions</string>
+    <string name="zero">0</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_speak">Speak</string>
+    <string name="menu_lib">Library</string>
+    <string name="menu_profile">Profile</string>
+    <string name="full_text">What does "in a flash" mean?\nCulips CATCH WORLD</string>
+</resources>
