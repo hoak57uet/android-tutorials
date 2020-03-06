@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal">
+    android:orientation="vertical">
 
     <EditText
         android:id="@+id/demo_first_number_et"
@@ -24,9 +24,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="=" />
+    <Button
+        android:id="@+id/demo_goto_frg_2_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Goto fragment 2" />
 
     <TextView
         android:id="@+id/demo_result_tv"
         android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 </LinearLayout>

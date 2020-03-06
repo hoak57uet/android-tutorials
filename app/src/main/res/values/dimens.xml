@@ -9,4 +9,5 @@
     <dimen name="corona_width">300dp</dimen>
     <dimen name="corona_height">200dp</dimen>
     <dimen name="full_text">300dp</dimen>
+    <dimen name="icon_mp3">60dp</dimen>
 </resources>
